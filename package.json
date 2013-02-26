@@ -1,0 +1,8 @@
+{
+  "main": "morpheus.js",
+  "volo": {
+    "dependencies": {
+      "morpheus-lib": "ded/morpheus/master"
+    }
+  }
+}
